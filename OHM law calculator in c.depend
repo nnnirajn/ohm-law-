@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513105327 source:f:\c projects\ohm law calculator in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HIGHLIGHT.h"
+
